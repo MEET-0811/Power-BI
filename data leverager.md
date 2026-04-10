@@ -1,88 +1,82 @@
-# 📊 Power BI Sales Dashboard Project
+📊 Data Leverager – Power Query Transformation Project
+📌 Project Overview
 
-## 📌 Project Overview
+This project focuses on ETL (Extract, Transform, Load) using Power BI Power Query.
 
-This project is an interactive Power BI dashboard designed to analyze sales data and generate meaningful business insights. The dashboard helps in tracking performance metrics such as revenue, profit, and regional sales.
+No visualization required ❌
+Focus on data cleaning & transformation ✅
+🖼️ Step-by-Step Presentation
+🔹 Step 1: Project Introduction
 
----
+Project Title: Data Leverager
+Tool Used: Power BI (Power Query)
+Objective: Clean, transform & combine data
+🔹 Step 2: Data Extraction
 
-## 🎯 Objectives
+Tasks:
+Load HTML Table from Web
+Import 3 Excel Files (Jan, Feb, Mar)
+Load Employee Dataset
+🔹 Step 3: Basic Transformations
 
-* Analyze overall sales performance
-* Track revenue and profit trends
-* Compare performance across regions and customers
-* Identify high-value transactions
+Actions:
+Remove null values
+Remove duplicates
+Promote headers
+Rename columns
+Change data types
+🔹 Step 4: Text Cleaning
 
----
+Functions Used:
+UPPER(), LOWER()
+TRIM(), CLEAN()
+REPLACE()
+Split Column
+🔹 Step 5: Numeric Operations
 
-## 🛠️ Tools & Technologies Used
+Tasks:
+Round values to 2 decimal places
 
-* Power BI
-* DAX (Data Analysis Expressions)
-* Data Modeling
-* Data Visualization
+Create Profit Column
 
----
+Profit = Revenue - Cost
+🔹 Step 6: Date & Time Transformation
 
-## 📂 Dataset Details
+Extract:
+Day
+Month
+Year
+Quarter
+Additional:
+Fiscal Month
+Age from Birthdate
+🔹 Step 7: Conditional Columns
 
-The dataset includes:
+Sales Category:
+High (>10,000)
+Medium (5,000–9,999)
+Low (<5,000)
+🔹 Step 8: Pivot & Unpivot
 
-* Customer
-* Region
-* Category
-* Revenue
-* Cost
-* Date
+Convert rows → columns (Pivot)
+Convert columns → rows (Unpivot)
+🔹 Step 9: Merging & Appending
 
----
+Operations:
+Merge with Employee Data
+Append Jan–Mar files
+🔹 Step 10: Grouping & Aggregation
 
-## ⚙️ Project Workflow
+Group by Region:
+Total Sales
+Average Order Value
+Transaction Count
+🔹 Step 11: Data Profiling
 
-1. Data Import and Cleaning
-2. Data Transformation
-3. Data Modeling
-4. Creating DAX Measures
-5. Building Visualizations
-6. Dashboard Design
+Tools Used:
 
----
-
-## 📊 Key Features
-
-* Interactive dashboard with slicers (Region, Category, Customer)
-* Dynamic charts and tables
-* KPI tracking (Revenue, Profit)
-
----
-
-## 📈 DAX Measures Used
-
-* Total Revenue
-* Total Profit
-* % of Grand Total
-* High Value Flag
-
----
-
-## 📊 Insights Generated
-
-* Identified top-performing regions
-* Analyzed customer-wise revenue contribution
-* Compared category performance
-* Highlighted high-value transactions
-
----
-
-## 📸 Dashboard Preview
-
-*(Add screenshot here)*
-
----
-
-## 🚀 Conclusion
-
-This project demonstrates the ability to work with Power BI for data analysis and visualization. It highlights skills in DAX, dashboard creation, and converting raw data into actionable insights.
-
----
-
+Column Profile
+Column Distribution
+Column Quality
+🔹Project presentation
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/cc314b0e-5c91-4a13-9932-005a96485d2b" />
