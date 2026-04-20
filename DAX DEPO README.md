@@ -20,9 +20,15 @@ Perform end-to-end data analysis using **DAX** and present insights using **Matr
 ---
 
 ## 🧮 Calculated Columns
+
 - **Profit** = SalesAmount − Cost
-- **ReturnFlag** = Returned / Not Returned  
+- 
+- <img width="736" height="522" alt="image" src="https://github.com/user-attachments/assets/a76a34eb-b9b3-472a-b436-e5898c2419ef" />
+
+- **ReturnFlag** = Returned / Not Returned
+  
 - **Full Name** = First Name + Last Name  
+
 
 ---
 
