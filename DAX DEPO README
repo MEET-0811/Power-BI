@@ -20,7 +20,7 @@ Perform end-to-end data analysis using **DAX** and present insights using **Matr
 ---
 
 ## 🧮 Calculated Columns
-- **Profit** = SalesAmount − Cost  
+- **Profit** = SalesAmount − Cost
 - **ReturnFlag** = Returned / Not Returned  
 - **Full Name** = First Name + Last Name  
 
@@ -28,7 +28,6 @@ Perform end-to-end data analysis using **DAX** and present insights using **Matr
 
 ## 📊 Key Measures
 - Total Sales 
-
 - Total Profit  
 - Return Rate (%)  
 - Average Sale per Transaction  
