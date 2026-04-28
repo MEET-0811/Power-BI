@@ -90,7 +90,8 @@ SWITCH(
 
 📌 Bar Chart → Average Score by Subject
 
-<img width="398" height="198" alt="image" src="https://github.com/user-attachments/assets/e8a530c3-b13d-4e48-a51a-4737c7262b24" />
+<img width="398" height="197" alt="image" src="https://github.com/user-attachments/assets/945e8c41-be56-499d-be54-4fa5598132f5" />
+
 
 📈 Line Chart → Performance Trend by Term
 
@@ -135,11 +136,9 @@ Student-wise detailed page
 
 ## 🧾 Tooltips:
 
+<img width="194" height="146" alt="image" src="https://github.com/user-attachments/assets/285203e0-a030-4cf4-8930-a6ce2bfbe1f1" />
+
 Quick insights
-
-## 🔄 Bookmarks:
-
-Switch views
 
 <img width="838" height="483" alt="image" src="https://github.com/user-attachments/assets/87d200f5-c101-41a0-9d64-c417782940bf" />
 
